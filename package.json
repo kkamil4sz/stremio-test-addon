@@ -1,5 +1,5 @@
 {
-	"name": "stremio-addon-stremiotest",
+	"name": "stremio-test-addon",
 	"version": "0.0.1",
 	"description": "Testing stremio sdk",
 	"scripts": {
